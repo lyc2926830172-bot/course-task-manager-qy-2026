@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+instance/secret.key
+instance/browser_test.sqlite
